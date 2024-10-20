@@ -1,0 +1,16 @@
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\bin\Debug\net8.0-windows\Proyecto_calculadora.exe
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\bin\Debug\net8.0-windows\Proyecto_calculadora.deps.json
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\bin\Debug\net8.0-windows\Proyecto_calculadora.runtimeconfig.json
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\bin\Debug\net8.0-windows\Proyecto_calculadora.dll
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\bin\Debug\net8.0-windows\Proyecto_calculadora.pdb
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\obj\Debug\net8.0-windows\Proyecto_calculadora.vbproj.GenerateResource.cache
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\obj\Debug\net8.0-windows\Proyecto_calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\obj\Debug\net8.0-windows\Proyecto_calculadora.AssemblyInfoInputs.cache
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\obj\Debug\net8.0-windows\Proyecto_calculadora.AssemblyInfo.vb
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\obj\Debug\net8.0-windows\Proyecto_calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\obj\Debug\net8.0-windows\Proyecto_calculadora.dll
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\obj\Debug\net8.0-windows\refint\Proyecto_calculadora.dll
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\obj\Debug\net8.0-windows\Proyecto_calculadora.pdb
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\obj\Debug\net8.0-windows\Proyecto_calculadora.genruntimeconfig.cache
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\obj\Debug\net8.0-windows\ref\Proyecto_calculadora.dll
+C:\Users\ShiroAky\source\repos\Proyecto_calculadora\obj\Debug\net8.0-windows\Proyecto_calculadora.Calculadora.resources
